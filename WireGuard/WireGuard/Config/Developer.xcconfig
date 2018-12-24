@@ -1,0 +1,9 @@
+// Developer.xcconfig
+
+// You Apple developer account's Team ID
+DEVELOPMENT_TEAM = <DS943W7SUQ>
+
+// The bundle identifier of this app.
+// Should be an app id created at developer.apple.com
+// with Network Extensions capabilty.
+APP_ID = <com.wyvision.vpnapp.network-extension>
